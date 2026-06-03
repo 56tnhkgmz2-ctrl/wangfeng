@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>证书详情</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:"SimSun",Microsoft Yahei;}
+body{padding:12px;max-width:700px;margin:0 auto;}
+table{width:100%;border-collapse:collapse;border:1px solid #000;}
+td{border:1px solid #000;padding:10px 12px;font-size:24px;vertical-align:middle;}
+td:first-child{width:34%;text-align:center;}
+.img-head{width:185px;}
+</style>
+</head>
+<body>
+<table>
+<tr>
+<td>照片：</td>
+<td><img class="img-head" src="151176a4212aa7011bdf4c652680350.jpg"></td>
+</tr>
+<tr>
+<td>姓名：</td>
+<td>汪峰</td>
+</tr>
+<tr>
+<td>性别：</td>
+<td>男</td>
+</tr>
+<tr>
+<td>证书编号：</td>
+<td>2564003019500343</td>
+</tr>
+<tr>
+<td>身份证号：</td>
+<td>360731********3414</td>
+</tr>
+<tr>
+<td>项目及等级：</td>
+<td>社会体育指导员（五级）</td>
+</tr>
+<tr>
+<td>理论知识考试成绩：</td>
+<td>70.0</td>
+</tr>
+<tr>
+<td>操作技能考核成绩：</td>
+<td>78.0</td>
+</tr>
+<tr>
+<td>颁证日期：</td>
+<td>2025-7-1</td>
+</tr>
+<tr>
+<td>发证单位：</td>
+<td>国家体育总局职业技能鉴定</td>
+</tr>
+<tr>
+<td>证书所属号段：</td>
+<td>61127001-61153500</td>
+</tr>
+<tr>
+<td>备注：</td>
+<td></td>
+</tr>
+</table>
+</body>
+</html>
